@@ -1,0 +1,1 @@
+name = input(" Informe seu nome completo: ") 
