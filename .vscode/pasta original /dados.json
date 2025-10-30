@@ -1,0 +1,36 @@
+
+"produtos"  [{
+{
+"id": 101,
+"categoria": "Roupas",
+"tipo": "Camiseta",
+"marca": "Marca A",
+"descricao": "Camiseta 100% algodão, manga curta, disponível em várias cores",
+"tamanhos": ["P", "M", "G", "GG"],
+"cores": ["Preto", "Branco", "Azul", "Cinza"],
+"preco": 69.90,
+"estoque": 120
+},
+{
+"id": 102,
+"categoria": "Roupas",
+"tipo": "Calça Jeans",
+"marca": "Marca B",
+"descricao": "Calça jeans masculina, corte reto, lavagem escura",
+"tamanhos": ["38", "40", "42", "44"],
+"cores": ["Azul Escuro"],
+"preco": 149.90,
+"estoque": 80
+},
+{
+"id": 201,
+"categoria": "Calçados",
+"tipo": "Tênis Esportivo",
+"marca": "Marca C",
+"descricao": "Tênis leve para corrida, solado antiderrapante, respirável",
+"tamanhos": [38, 39, 40, 41, 42, 43],
+"cores": ["Branco", "Preto", "Cinza"],
+"preco": 199.90,
+"estoque": 60
+},
+{
