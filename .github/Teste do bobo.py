@@ -1,0 +1,1 @@
+print("Higor e platina")
